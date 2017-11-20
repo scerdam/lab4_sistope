@@ -13,10 +13,16 @@ typedef struct threads{
 
 }ParamsThread;
 
+
+
+
+
+
+
 //void writeGrid(int, char *);
 //int getSchroedingerValue(int ,int ,int ,int);
 
-void writeGrid(int N, char *file_name_out);
-void createGrid(int N,int T);
-
-void printGrid();
+// void writeGrid(int N, char *file_name_out);
+// void createGrid(int N,int T);
+//
+// void printGrid();
